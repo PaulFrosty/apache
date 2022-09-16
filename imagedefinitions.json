@@ -1,0 +1,6 @@
+[
+  {
+    "name": "apache-fargate",
+    "imageUri": "public.ecr.aws/w9v8a6d5/apache:latest"
+  }
+]
